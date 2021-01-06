@@ -1,0 +1,92 @@
+h1 {
+    
+
+    font-family: cursive;
+    position:ablsolute;
+    margin-top:100px;
+}
+body {
+    background-color: springgreen;
+}
+.name {
+    font-size: 30px;
+    position: absolute;
+    top: 10px;
+    left:20px;
+   }
+   #home {
+    position: absolute;;
+    top:10px;
+    right:350px;
+   }
+   #about {
+    position: absolute;
+    top:10px;
+    right:250px;
+   }
+   #list {
+    position: absolute;
+    top:10px;
+    right:50px;
+   }
+   .header {
+       background-color: deepskyblue;
+       display:flex;
+       justify-content: space-between;
+       flex-direction: column;
+    
+    }
+#chinese {
+    margin-left: 100px;
+}
+#compsci {
+    position:absolute;
+    top:220px;
+    left:350px;
+}
+#math {
+    position: absolute;
+    top:230px;
+    left:600px;
+}
+#la {
+    position: absolute;
+    top:220px;
+    left:850px;
+    
+}
+#ss {
+    position: absolute;
+    top:240px;
+    left:1100px;
+}
+#library {
+    position: absolute;
+    top:540px;
+    left:100px;
+}
+#pe {
+    position: absolute;
+    top:590px;
+    left:350px;
+}
+#sci {
+    position: absolute;
+    top:480px;
+    left:550px;
+}
+#spanish {
+    position: absolute;
+    top:530px;
+    left:850px;
+}
+#azoom {
+    position: absolute;
+    top:420px;
+    left:1000px;
+}
+#art {
+    position: absolute;
+    top:820px;
+    left:600px;
+}
